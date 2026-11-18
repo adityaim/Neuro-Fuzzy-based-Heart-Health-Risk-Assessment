@@ -1,4 +1,4 @@
-# Neuro-Fuzzy Heart Health Risk Assessment — Reference Implementation
+# Neuro-Fuzzy Heart Health Risk Assessment
 
 This is the Python implementation backing the project report *"Neuro-Fuzzy
 based Heart Health Risk Assessment"*. It independently reproduces every
