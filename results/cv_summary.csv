@@ -1,0 +1,5 @@
+,accuracy,accuracy,f1,f1,roc_auc,roc_auc
+,mean,std,mean,std,mean,std
+model,,,,,,
+Baseline ANN,0.8464,0.0264,0.8633,0.0205,0.9156,0.0243
+Neuro-Fuzzy,0.8497,0.0263,0.8671,0.0198,0.9142,0.0178

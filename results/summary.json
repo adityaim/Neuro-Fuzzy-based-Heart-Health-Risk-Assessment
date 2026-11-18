@@ -1,0 +1,15 @@
+{
+  "n_total": 918,
+  "n_train": 734,
+  "n_test": 184,
+  "class_balance": {
+    "disease": 508,
+    "normal": 410
+  },
+  "best_epoch_baseline": 9,
+  "best_epoch_neurofuzzy": 18,
+  "chol_median": 237.0,
+  "bp_median": 130.0,
+  "n_chol_imputed": 172,
+  "n_bp_imputed": 1
+}
