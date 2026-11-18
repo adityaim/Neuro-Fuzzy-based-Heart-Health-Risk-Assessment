@@ -5,6 +5,8 @@ based Heart Health Risk Assessment"*. It independently reproduces every
 number in the report's Results chapter, and ships a Streamlit app for
 interactive demonstration.
 
+Live Demonstration can be viewed at: https://neuro-fuzzy-based-heart-health-risk-assessment.streamlit.app/
+
 ## Contents
 
 | File | Purpose |
